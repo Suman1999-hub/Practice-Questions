@@ -5,6 +5,10 @@ Sample Input:
 Sample Output:
 2 11 2 43 1 1 7 5
 
+Explanation Of Sample Input:
+
+Rotate 1 steps to the left: 5 2 11 2 43 1 1 7
+Rotate 2 steps to the left: 2 11 2 43 1 1 7 5
 
 import java.util.* ;
 import java.io.*; 
